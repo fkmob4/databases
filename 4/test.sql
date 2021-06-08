@@ -1,0 +1,1 @@
+SELECT * FROM buyer LIMIT 10;
